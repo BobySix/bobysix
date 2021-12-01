@@ -29,6 +29,4 @@
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bobysix/bobysix/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/BobySix/snk)_
- 
 </div>
