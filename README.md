@@ -1,8 +1,8 @@
 ## Wendell Leonardo Delicolli
 
-- 🔭  Hoje trabalho com Front-End
-- 🌱  Estudando ReactJS, React-Native e TypeScript
-- 📫  Contate-me no email: wldelicolli@gmail.com
+- 🔭 Hoje trabalho com Front-End
+- 🌱 Estudando ReactJS, React-Native e TypeScript
+- 📫 Contate-me no email: wldelicolli@gmail.com
 
 <div>
   <a href="https://github.com/BobySix">
